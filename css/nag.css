@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'NotoSans';
+    src: url('/font/NotoSans-Regular.ttf');
+}
+
+html, body {
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+    padding-bottom: 50px;
+    font-family: 'NotoSans';
+    background-color: black;
+}
+
+.letter {
+    width: 80%;
+    margin: auto;
+    color: green;
+}
+
+p {
+    font-size: 24px;
+}
+
+.white {
+    color: white;
+}
+
+.big {
+    font-size: 48px;
+}
+
+.med {
+    font-size: 38px;
+}
+
+.footer {
+    font-size: 18px;
+    color: green;
+}
